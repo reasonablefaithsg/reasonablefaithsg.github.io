@@ -8,6 +8,7 @@ keywords: faith,reason,religion,christianity,apologetics,jesus,singapore
 url: "http://reasonablefaithsingapore.org" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
+future: true
 mailchimp-list: "//reasonablefaithsingapore.us17.list-manage.com/subscribe/post?u=2c83dd300526151160f35290c&amp;id=6358575f6a"
 collections:
   events:
