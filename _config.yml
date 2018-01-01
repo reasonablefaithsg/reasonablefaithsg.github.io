@@ -1,0 +1,11 @@
+# Site settings
+title: Reasonable Faith Singapore Apologetics Ministry
+email: reasonablefaithsingapore@gmail.com
+description: >
+  RSVP for the upcoming Reasonable Faith Conference 2018!
+baseurl: "" # the subpath of your site, e.g. /blog
+keywords: faith,reason,religion,christianity,apologetics,jesus,singapore
+url: "http://reasonablefaithsg.github.io" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+mailchimp-list: "//reasonablefaithsingapore.us17.list-manage.com/subscribe/post?u=2c83dd300526151160f35290c&amp;id=6358575f6a"
