@@ -9,3 +9,7 @@ url: "http://reasonablefaithsingapore.org" # the base hostname & protocol for yo
 # Build settings
 markdown: kramdown
 mailchimp-list: "//reasonablefaithsingapore.us17.list-manage.com/subscribe/post?u=2c83dd300526151160f35290c&amp;id=6358575f6a"
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
