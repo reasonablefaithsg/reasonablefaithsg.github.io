@@ -129,4 +129,13 @@ footer p a:hover {
       border-bottom: 1px solid #29569A;
       padding-bottom: 25px;
   }
+
+  #tickets .icon-box-basic {
+    padding-left: 0;
+    text-align: center;
+  }
+
+  #tickets .icon-box-basic i {
+    display: none;
+  }
 }
