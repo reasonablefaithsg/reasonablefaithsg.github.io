@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "The Kalam Cosmological Argument"
+description: >
+  Have you ever wondered why the universe began? The Kalam Cosmological Argument shows why God is the best explanation for the universe having a beginning. We will examine both the philosophical and scientific evidences for this claim.
+date:   2018-05-02
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/201315850598224/"
+image: /img/events/may2018.jpg
+---
