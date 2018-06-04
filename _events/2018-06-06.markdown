@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Should Religious Disagreements Cause Doubt?"
+description: >
+  Short Description: Religious disagreements are widespread. Some philosophers have argued that the right response to religious disagreements should be religious skepticism, or significant revision of one’s religious beliefs. In this session, we will explore different responses to this line of thinking.
+date:   2018-06-06
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/205939223357594/"
+image: /img/events/jun2018.png
+---
