@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Do We Have Souls?"
+description: >
+  In this session, we will look at how we can determine that we have souls, and why theism offers a worldview that is consistent with that fact.
+date:   2018-07-04
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/1634227093353496/"
+image: /img/events/jul2018.png
+---
