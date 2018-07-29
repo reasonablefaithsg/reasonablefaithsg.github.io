@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "How is the Old Testament Law relevant today?"
+description: >
+  Since Christians don't follow every tenet of the Old Testament Law (such as prohibitions on eating pork or shellfish), why do we think it is relevant in discussions on various topics today? This session will look at two broad approaches by theologians on this issue.
+date:   2018-08-01
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/2123170151286376"
+image: /img/events/aug2018.jpg
+---
