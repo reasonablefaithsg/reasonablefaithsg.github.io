@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Evolution: Friends with Atheism?"
+description: >
+  Richard Dawkins said "the evidence of evolution reveals a world without design." It is a common idea that the theory of evolution contradicts Christianity and supports atheism. In this session, we will take a look at Alvin Plantinga’s Evolutionary Argument Against Naturalism (EAAN). Plantinga offers a philosophical argument that it is irrational to believe both atheism and evolution at the same time. If he is right, then there is deep conflict between evolution and atheism. I will then briefly discuss whether there is deep conflict between evolution and Christianity.
+date:   2018-09-05
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/531675010595818"
+image: /img/events/sep2018.jpg
+---
