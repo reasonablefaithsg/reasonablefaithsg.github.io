@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Continuous Nation-Wide Testimony and the Miracles of the Exodus"
+description: >
+  The book of Exodus records God as freeing Israel from slavery under the Egyptians. There are many miraculous events such as the ten plagues in Egypt, the splitting of the red sea, eating manna for 40 years in the wilderness, etc. The miraculous events are said to have been experienced by the entire nation, and their testimony of the events have been passed down from generation to generation through oral tradition, through Scripture and through traditions (eg. festivals, laws, Sabbath). In this session we will explore whether such testimony provides good evidence that the miracles of Exodus really happened.
+date:   2018-12-05
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/596796550781502"
+image: /img/events/dec2018.jpg
+---
