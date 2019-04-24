@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Is Free Will a Good Answer to the Problem of Evil?"
+description: >
+  One of the most common objections to Christianity is the problem of evil. If God is all-good, all-powerful and all-knowing, why is there evil in the world? One common answer Christians have given is “because God gives us free will.” In this session, we are going to look deeper into this particular answer and some problems it faces. For example, if the freedom to do evil is good, then why does God lack it?
+date:   2019-05-08
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/315786749114230/"
+image: /img/events/may2019.jpg
+---
