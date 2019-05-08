@@ -1,11 +1,11 @@
 ---
 layout: event
-title:  "RFS Monthly Meeting (Dec 2017): Is God a Coherent Concept?"
+title:  "Is God a Coherent Concept?"
+date: 2017-12-06
 description: >
   In this session, we will look at whether the idea of God is inherently a
   coherent one, and the important implication that has on the question of
   whether God exists.
-date:   2017-12-06
 categories: monthly-meetups
 venue: Graduate Christian Fellowship Conference Room
 address: 420 North Bridge Road 05-04

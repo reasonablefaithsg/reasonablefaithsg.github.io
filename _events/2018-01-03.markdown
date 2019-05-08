@@ -1,9 +1,9 @@
 ---
 layout: event
-title:  "RFS Monthly Meeting (Jan 2018): Can Naturalism explain evil?"
+title:  "Can Naturalism explain evil?"
+date: 2018-01-03
 description: >
   In previous sessions, we have looked at why the problem of evil cannot be used to show that Christianity is false. This session will examine why naturalism faces far more significant problems in explaining evil and suffering.
-date:   2018-01-03
 categories: monthly-meetups
 venue: Graduate Christian Fellowship Conference Room
 address: 420 North Bridge Road 05-04

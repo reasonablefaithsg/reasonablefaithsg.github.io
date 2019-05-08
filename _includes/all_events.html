@@ -1,0 +1,32 @@
+<section id="allevents">
+  <div class="container">
+    <div class="title center">
+      <h2>Past Meetups</h2>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="blog-masonry three-col">
+      <!-- For some strange reason, the events are not sorted by recency, so we need to reverse it !-->
+      {% assign sorted = site.events | reverse %}
+      {% for event in sorted offset:1 limit:6 %}
+          <div class="masonry-post">
+            <article class="post-single">
+              <div class="post-info">
+                <h2><a href={{ event.facebook }} target="_blank">{{ event.title }}</a></h2>
+                <h6 class="upper"><span>{{ event.date | date_to_long_string }}</span></h6>
+              </div>
+              <div class="post-media">
+                <a href={{ event.facebook }} target="_blank">
+                  <img src={{ event.image | prepend: site.baseurl }}>
+                </a>
+              </div>
+              <div class="post-body">
+                <p>{{  event.description }}</p>
+              </div>
+            </article>
+          </div>
+      {% endfor %}
+    </div>
+    </div>
+  </div>
+</section>

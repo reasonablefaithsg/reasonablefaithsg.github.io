@@ -1,11 +1,11 @@
 ---
 layout: event
-title:  "RFS Monthly Meeting (Oct 2017): The Fate of the Apostles"
+title:  "The Fate of the Apostles"
+date: 2017-10-04
 description: >
   What happened to the Twelve Apostles after the events of the New Testament? We
   will look at Sean McDowell's research on this and how it can be used to
   bolster the case for Jesus' resurrection.
-date:   2017-10-04
 categories: monthly-meetups
 venue: Graduate Christian Fellowship Conference Room
 address: 420 North Bridge Road 05-04
