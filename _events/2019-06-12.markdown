@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Science & Christianity: An Overview"
+description: >
+  Does science disprove Christianity? How should Christians deal with evidence regarding the Big Bang, an old earth, and evolution? In this session, we will cover an overview of the issues and various Christian responses.
+date:   2019-06-12
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/338660040151447/"
+image: /img/events/jun2019.png
+---
