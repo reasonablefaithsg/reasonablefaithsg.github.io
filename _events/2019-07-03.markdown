@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Can We Identify a Miracle"
+description: >
+  While Christianity rests centrally on the miracle of Jesus' resurrection, many sceptics reject the idea that miracles can happen altogether. This session will look at why and how we can identify that a miracle has happened.
+date:   2019-07-03
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/338660040151447/"
+image: /img/events/jul2019.jpg
+---
