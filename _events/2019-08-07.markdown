@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Was Jesus Forsaken by God?"
+description: >
+  In this session, we will explore Jesus’ cry of dereliction. While Jesus was on the cross, He cried out, “My God, my God, why have you forsaken me?” Many interpret this passage as saying that God had abandoned Jesus and the Trinity was broken. This leads to various questions: How can Jesus be God if He was God-forsaken? How can there be brokenness within the Trinity? Will God also turn away from us and abandon us when we sin?
+date:   2019-08-07
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/401992983763533/"
+image: /img/events/aug2019.png
+---
