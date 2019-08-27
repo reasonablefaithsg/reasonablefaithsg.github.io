@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Why Should I Be a Christian?"
+description: >
+  How do you tell others why they should be a Christian? In this talk, we have Terrence (who is pursuing a Masters in Apologetics at Biola University) to share why one should be a Christian. His approach will cover truth, sin, and how Jesus is the answer.
+date:   2019-09-04
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/2125472277752916/"
+image: /img/events/sep2019.png
+---
