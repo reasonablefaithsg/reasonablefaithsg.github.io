@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Do Christians Blindly Believe in God?"
+description: >
+  Most Christians don't come to believe in God because of arguments or evidences. Most of them don't even know what apologetics is! Some issues arise out of this. First, do such Christians believe blindly? Are they irrational and unjustified in their belief? Second, since so many people become Christians without apologetics, what role does apologetics play? In this session, I shed some light on how Christians typically form beliefs and it's implications for apologetics.
+date:   2019-10-02
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/315125009327875/"
+image: /img/events/oct2019.png
+---
