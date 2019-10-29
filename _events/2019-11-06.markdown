@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "What About Those Who Have Never Heard the Gospel?"
+description: >
+  Christianity claims that Jesus is the only way to heaven (eg. John 14:6, Acts 4:12). But a great number of people have never heard the gospel. How can a good God send people to hell just because they never heard of Jesus? How about infants? Does the Bible really teach that those who have never heard the gospel are doomed to hell?
+date:   2019-11-06
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/790497798073814/"
+image: /img/events/Nov2019.png
+---
