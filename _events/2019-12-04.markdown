@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Is the Trinity Incoherent?"
+description: >
+  Christians believe in the Trinity. This doctrine have confused both Christians and non-Christians. Skeptics have also pointed to the Trinity to show that Christianity is logically incoherent and is a blind leap of faith. In this session, we will explore this doctrine and see how to make sense of it.
+date:   2019-12-04
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "https://www.facebook.com/events/2500395263375811/"
+image: /img/events/dec2019.jpg
+---
