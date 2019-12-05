@@ -1,0 +1,13 @@
+---
+layout: event
+title:  "What is Apologetics?"
+description: >
+  This is the first session of our "On Guard" Apologetics Course.
+  This session explores the Biblical case for apologetics, looks at 3 reasons why apologetics is important, and explores why the question of whether God exists makes a great difference to our lives.
+date:   2020-01-08
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "http://bit.ly/RF-On-Guard-2020"
+image: /img/events/2020jan.png
+---
