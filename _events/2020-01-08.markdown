@@ -9,5 +9,5 @@ categories: monthly-meetups
 venue: Graduate Christian Fellowship Conference Room
 address: 420 North Bridge Road 05-04
 facebook: "http://bit.ly/RF-On-Guard-2020"
-image: /img/events/2020jan.png
+image: /img/events/2020jan.jpg
 ---
