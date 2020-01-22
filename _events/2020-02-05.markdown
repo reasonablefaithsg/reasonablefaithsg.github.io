@@ -1,0 +1,13 @@
+---
+layout: event
+title:  "What Does Anything at All Exist?"
+description: >
+  This is the second session of our "On Guard" Apologetics Course.
+  This session explores why God exists necessarily and is the explanation for why anything else exists.
+date:   2020-02-05
+categories: monthly-meetups
+venue: Graduate Christian Fellowship Conference Room
+address: 420 North Bridge Road 05-04
+facebook: "http://bit.ly/RF-On-Guard-2020"
+image: /img/events/2020feb.jpg
+---
